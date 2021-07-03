@@ -1,16 +1,41 @@
-### Hi there 👋
+![imagen](./images/banner.gif)
 
-<!--
-**MilenaGimenez/MilenaGimenez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">
+Soy Milena Gimenez <br><br>
+Desarrolladora Web Frontend <br>
+& Diseñadora Gráfica 💻🎨
 
-Here are some ideas to get you started:
+![imagen](./images/banner-down.gif)</h1>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+```javascript
+const milena = {
+  knowledge: ["Frontend Web Development", "Graphic Design"],
+  frontend: [React, Javascript, Sass, Bootstrap, CSS, HTML],
+  design: [Illustrator, Photoshop, Indesign]
+ };
+  ```
+***
+### ➡ Entre mis repositorios vas a encontrar el recorrido que hice (y sigo haciendo) aprendiendo código y herramientas de desarrollo web.
+***
+
+### ➡ Estos son algunos de los proyectos que desarrollé:
+
+- [🎭 Generador de memes](https://github.com/julietapennini/proyecto-ahorradas)
+- [🦸‍♂️ Buscador de comics Marvel](https://github.com/julietapennini/proyecto-ahorradas)
+- [💼 Portafolio](https://github.com/julietapennini/proyecto-ahorradas)
+- [✅ Todo List](https://github.com/julietapennini/proyecto-ahorradas)
+- [💸 Ahorradas (trabajo colaborativo)](https://github.com/julietapennini/proyecto-ahorradas)
+
+***
+### ➡ Me podes contactar por acá:
+<br>
+<a href="https://www.linkedin.com/in/milena-gimenez/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@milenagimenez-blue?style=flat&logo=linkedin"></a> <a href="mailto:milenanicolegimenez@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-milenanicolegimenez@gmail.com- red?style=flat&logo=gmail"></a>
+
+
+
+  
+
+
+
+
