@@ -21,9 +21,10 @@ const milena = {
 
 ### ➡ Estos son algunos de los proyectos que desarrollé:
 
+- [🎬 Buscador de películas](https://github.com/MilenaGimenez/movies-project)
 - [🎭 Generador de memes](https://github.com/julietapennini/proyecto-ahorradas)
 - [🦸‍♂️ Buscador de comics Marvel](https://github.com/julietapennini/proyecto-ahorradas)
-- [💼 Portafolio](https://github.com/julietapennini/proyecto-ahorradas)
+- [💼 Portafolio](https://github.com/julietapennini/proyecto-ahorradas) (en desarrollo)
 - [✅ Todo List](https://github.com/julietapennini/proyecto-ahorradas)
 - [💸 Ahorradas (trabajo colaborativo)](https://github.com/julietapennini/proyecto-ahorradas)
 
