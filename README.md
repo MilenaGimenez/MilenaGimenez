@@ -1,11 +1,10 @@
-![imagen](./images/banner.gif)
+
 
 <h1 align="center">
 Soy Milena Gimenez <br><br>
 Desarrolladora Web Frontend <br>
 & Diseñadora Gráfica 💻🎨
 
-![imagen](./images/banner-down.gif)</h1>
 
 
 ```javascript
@@ -24,7 +23,6 @@ const milena = {
 - [🎬 Buscador de películas](https://github.com/MilenaGimenez/movies-project)
 - [🎭 Generador de memes](https://github.com/julietapennini/proyecto-ahorradas)
 - [🦸‍♂️ Buscador de comics Marvel](https://github.com/julietapennini/proyecto-ahorradas)
-- [💼 Portafolio](https://github.com/julietapennini/proyecto-ahorradas) (en desarrollo)
 - [✅ Todo List](https://github.com/julietapennini/proyecto-ahorradas)
 - [💸 Ahorradas (trabajo colaborativo)](https://github.com/julietapennini/proyecto-ahorradas)
 
