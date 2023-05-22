@@ -1,10 +1,10 @@
 
 
 <h1 align="center">
-Soy Milena Gimenez <br><br>
-Desarrolladora Web Frontend <br>
-& Diseñadora Gráfica 💻🎨
-
+¡Hola!
+Soy Milena Gimenez <br></h1>
+<h2 align="center">Desarrolladora Web Frontend <br>
+& Diseñadora Gráfica 💻🎨<br></h2>
 
 
 ```javascript
